@@ -13,14 +13,8 @@ Este proyecto realiza un análisis comparativo entre cuatro tiendas diferentes p
 
 El proyecto está organizado en los siguientes archivos y carpetas:
 
-- `analisis_tiendas.ipynb`  
+- `AluraStoreLatam.ipynb`  
   Notebook principal donde se realiza todo el análisis de datos, generación de gráficos y elaboración de conclusiones.
-
-- `datos/`  
-  Carpeta que contiene los archivos CSV o datasets con información de las ventas, productos, precios y costos de envío por tienda.
-
-- `funciones.py`  
-  Archivo con funciones reutilizables para cálculo de métricas, generación de gráficos y procesamiento de datos.
 
 - `README.md`  
   Documentación del proyecto.
